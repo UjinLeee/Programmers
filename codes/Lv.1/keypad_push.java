@@ -1,4 +1,4 @@
-class Solution {
+class Solution { //다시 하기
     public String solution(int[] numbers, String hand) {
         
         int[] column = {3, 0, 0, 0, 1, 1, 1, 2, 2, 2, 3, 3};
